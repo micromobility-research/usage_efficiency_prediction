@@ -1,11 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Jan  2 20:47:17 2022
-
-@author: Pengxiang.Zhao
-"""
-
-
 
 import os
 import sys
