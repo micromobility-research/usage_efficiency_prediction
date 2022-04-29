@@ -50,6 +50,5 @@ if __name__=="__main__":
     print(recall)
     
  
-    # ParameterTuning(X, y, 10)
     print('OK')
     
